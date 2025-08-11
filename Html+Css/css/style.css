@@ -1,0 +1,46 @@
+/*p{*/
+/*    color: blueviolet;*/
+/*}*/
+.a{
+    color:blue;
+    background-color: aqua;
+
+}
+.b{
+    color:green;
+    text-decoration: underline;
+}
+#p1{
+    color:red;
+    font-size: 25px;
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-variant: small-caps; /*kotta blan yozadi*/
+    font-weight: bold;
+    direction: rtl;
+    letter-spacing: 2px; /*interval*/
+    text-indent: 1cm; /*sm from begin*/
+    text-align: center;
+    text-shadow: 4px 4px 8px black;
+}
+#p2{
+    font-size: 30px;
+}
+/*body{*/
+/*    background-image: url("/img/images.webp");*/
+/*    background-repeat: no-repeat ;*/
+/*}*/
+
+.border{
+    /*border: 1px solid black;*/
+    /*border-top: red solid;*/
+    /*border-left: aqua solid;*/
+    /*border-right: blueviolet solid;*/
+    /*border-style: dashed;*/
+    border-style: inset; /*3d*/
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 3px solid red;
+}
